@@ -1,5 +1,5 @@
 _repo: The-Discovery-of-Muscovy_4076
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Chancellor, Richard, d. 1556'
 - !lcsh 'Willoughby, Hugh, Sir, d. 1554'
 - !lcsh 'Russia -- Description and travel'
+- GITenberg
 title: The Discovery of Muscovy
 url: http://www.gutenberg.org/ebooks/4076
